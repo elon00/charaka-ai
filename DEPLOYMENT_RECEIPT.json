@@ -1,0 +1,14 @@
+{
+  "project": "charaka-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "27xZvSWDHRtpEf5iTFzSsGEkk6LbTkvsAzNMD8uhAStB",
+  "vault_account": "7shi5mvredNyLX25ScyVqDpbvomQt44CR3EAmiyFpWoY",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3w2YTECx5qD8dniPXrQGvHu4AyfwvqZDCrGKWUydv5YbHU8vCUm4RAKJ329919ThqfDwfDr4C3j8stvvkvuB1PK4",
+  "account_tx": "4pLjZcX8ZM1RsZkZoEX8ZaWkFmSBwx2cxuL8HY3pjFLhru6Go5jrafz5fxDUcfZMLveTwovrs76vXRiA7fwqZ8DD",
+  "mint_tx": "35QzK3wiMWbrdc5u28nxnVrcnUWt4oNazcszjPaAkewy3vrDuTs9JcyHurAAKhnxjFFx8fzTRts4Tho9fnwTXPae",
+  "solana_explorer_mint": "https://explorer.solana.com/address/27xZvSWDHRtpEf5iTFzSsGEkk6LbTkvsAzNMD8uhAStB?cluster=devnet",
+  "timestamp": "2026-10-26 16:24:54 UTC"
+}
